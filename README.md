@@ -2,7 +2,7 @@
 Approachable IO website to help those prepping for interviewing while allowing anyone to practice their skills by making Pull Requests.
 
 ## Contribute an interview question
-If you're a Git/Github expert, feel free to skip some sections. If you have never made a Pull Request before, check out our [getting-started](https://github.com/approachable-io/getting-started) guide which will show you how to create your Github account and make your first Open Source contribution. The following guide assumes you have already taken those steps. If you have that down, let's jump into sharing your interview question!
+If you're a Git/Github expert, [feel free to skip some sections](https://github.com/approachable-io/software-interview-prep/blob/master/README.md#clone-the-fork). If you have never made a Pull Request before, check out our [getting-started](https://github.com/approachable-io/getting-started) guide which will show you how to create your Github account and make your first Open Source contribution. The following guide assumes you have already taken those steps. If you have that down, let's jump into sharing your interview question!
 
 ### Install Git
 Here is a detailed explanation of [how to install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
